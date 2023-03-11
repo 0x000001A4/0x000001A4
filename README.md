@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,python,js,vue,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,python,js)](https://skillicons.dev)
 
 <!--
 **0x000001A4/0x000001A4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
