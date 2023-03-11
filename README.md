@@ -1,5 +1,4 @@
 # Personal skills
-[![My Skills](https://skillicons.dev/icons?i=julia&theme=light)](https://skillicons.dev)
 # Systems development
 [![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,maven,spring&theme=light)](https://skillicons.dev)
@@ -13,8 +12,10 @@
 # Team coordination tools
 [![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
 
-
 # Learning:
+[![My Skills](https://skillicons.dev/icons?i=julia&theme=light)](https://skillicons.dev)
+
+# Interested in learning:
 [![Learning](https://skillicons.dev/icons?i=rust,go,solidity&theme=light)](https://skillicons.dev)
 
 <!--
