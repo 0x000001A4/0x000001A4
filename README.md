@@ -10,7 +10,7 @@
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=supabase,postgres&theme=dark)](https://skillicons.dev)
 ### Team coordination tools
-[![My Skills](https://skillicons.dev/icons?i=git,GitHub,gitlab&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=dark)](https://skillicons.dev)
 
 ## Learning:
 [![My Skills](https://skillicons.dev/icons?i=julia&theme=dark)](https://skillicons.dev)
