@@ -2,6 +2,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,cs,js&theme=light)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=maven,spring,pytorch,html,css,vue,nodejs,dotnet,supabase,postgres,git&theme=light)](https://skillicons.dev)
+
+
+[![Learning](https://skillicons.dev/icons?i=rust,go,solidity&theme=light)](https://skillicons.dev)
+
 <!--
 **0x000001A4/0x000001A4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
