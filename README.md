@@ -1,5 +1,7 @@
 # Personal skills
+[![My Skills](https://skillicons.dev/icons?i=julia&theme=light)](https://skillicons.dev)
 # Systems development
+[![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,maven,spring&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet&theme=light)](https://skillicons.dev)
 # Data-science and Machine learning
