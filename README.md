@@ -1,10 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,cs,js&theme=light)](https://skillicons.dev)
+# Skills:
+[![My Skills](https://skillicons.dev/icons?i=java,maven,spring&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=supabase,postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=maven,spring,pytorch,html,css,vue,nodejs,dotnet,supabase,postgres,git&theme=light)](https://skillicons.dev)
 
-
+# Learning:
 [![Learning](https://skillicons.dev/icons?i=rust,go,solidity&theme=light)](https://skillicons.dev)
 
 <!--
