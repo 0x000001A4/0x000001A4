@@ -2,10 +2,15 @@
 
 # Skills:
 [![My Skills](https://skillicons.dev/icons?i=java,maven,spring&theme=light)](https://skillicons.dev)
+#
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet&theme=light)](https://skillicons.dev)
+#
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch&theme=light)](https://skillicons.dev)
+#
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,nodejs&theme=light)](https://skillicons.dev)
+#
 [![My Skills](https://skillicons.dev/icons?i=supabase,postgres&theme=light)](https://skillicons.dev)
+#
 [![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
 
 
