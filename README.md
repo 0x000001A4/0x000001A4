@@ -1,6 +1,6 @@
 # Personal skills
 # Systems development
-[![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,maven,spring&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet&theme=light)](https://skillicons.dev)
 # Data-science and Machine learning
@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=julia&theme=light)](https://skillicons.dev)
 
 # Interested in learning:
-[![Learning](https://skillicons.dev/icons?i=rust,go,solidity&theme=light)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=rust,go,solidity,docker,kubernetes&theme=light)](https://skillicons.dev)
 
 <!--
 **0x000001A4/0x000001A4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
