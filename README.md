@@ -1,22 +1,22 @@
 # Personal skills
-# Systems development
-[![My Skills](https://skillicons.dev/icons?i=linux,bash&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,maven,spring&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet&theme=light)](https://skillicons.dev)
-# Data-science and Machine learning
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch&theme=light)](https://skillicons.dev)
-# Web-app development
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,nodejs&theme=light)](https://skillicons.dev)
-# Databases
-[![My Skills](https://skillicons.dev/icons?i=supabase,postgres&theme=light)](https://skillicons.dev)
-# Team coordination tools
-[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
+### Systems development
+[![My Skills](https://skillicons.dev/icons?i=linux,bash&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,maven,spring&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet&theme=dark)](https://skillicons.dev)
+### Data-science and Machine learning
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch&theme=dark)](https://skillicons.dev)
+### Web-app development
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,nodejs&theme=dark)](https://skillicons.dev)
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=supabase,postgres&theme=dark)](https://skillicons.dev)
+### Team coordination tools
+[![My Skills](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
 
-# Learning:
-[![My Skills](https://skillicons.dev/icons?i=julia&theme=light)](https://skillicons.dev)
+## Learning:
+[![My Skills](https://skillicons.dev/icons?i=julia&theme=dark)](https://skillicons.dev)
 
-# Interested in learning:
-[![Learning](https://skillicons.dev/icons?i=rust,go,solidity,docker,kubernetes&theme=light)](https://skillicons.dev)
+## Interested in learning:
+[![Learning](https://skillicons.dev/icons?i=rust,go,solidity,docker,kubernetes&theme=dark)](https://skillicons.dev)
 
 <!--
 **0x000001A4/0x000001A4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
