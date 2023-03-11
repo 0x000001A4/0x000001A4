@@ -1,6 +1,4 @@
-# Hi there 👋
-
-# Skills:
+# Personal skills
 # System's development
 [![My Skills](https://skillicons.dev/icons?i=java,maven,spring&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet&theme=light)](https://skillicons.dev)
