@@ -12,11 +12,11 @@
 ### Team coordination tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=dark)](https://skillicons.dev)
 
-## Learning:
-[![My Skills](https://skillicons.dev/icons?i=julia&theme=dark)](https://skillicons.dev)
+## Still exploring:
+[![My Skills](https://skillicons.dev/icons?i=julia,solidity,rust&theme=dark)](https://skillicons.dev)
 
 ## Interested in learning:
-[![Learning](https://skillicons.dev/icons?i=rust,go,solidity,docker,kubernetes&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=go,docker,kubernetes&theme=dark)](https://skillicons.dev)
 
 <!--
 **0x000001A4/0x000001A4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
