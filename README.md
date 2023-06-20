@@ -12,8 +12,11 @@
 ### Team coordination tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=dark)](https://skillicons.dev)
 
-## Still exploring:
-[![My Skills](https://skillicons.dev/icons?i=julia,solidity,rust&theme=dark)](https://skillicons.dev)
+## Others:
+[![My Skills](https://skillicons.dev/icons?i=julia,solidity&theme=dark)](https://skillicons.dev)
+
+## Currently Learning: 
+[![My Skills](https://skillicons.dev/icons?i=rust&theme=dark)](https://skillicons.dev)
 
 ## Interested in learning:
 [![Learning](https://skillicons.dev/icons?i=go,docker,kubernetes&theme=dark)](https://skillicons.dev)
