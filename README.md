@@ -10,7 +10,7 @@
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=supabase,postgres&theme=dark)](https://skillicons.dev)
 ### Application deployment
-[![App Deployment](https://skillicons.dev/icons?i=aws,docker&theme=dark)](https://skillicons.dev)
+[![App Deployment](https://skillicons.dev/icons?i=aws,docker,ansible&theme=dark)](https://skillicons.dev)
 
 ### Team coordination tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=dark)](https://skillicons.dev)
