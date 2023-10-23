@@ -10,7 +10,7 @@
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=supabase,postgres&theme=dark)](https://skillicons.dev)
 ### Application deployment
-[![App Deployment](https://skillicons.dev/icons?i=aws,docker,ansible&theme=dark)](https://skillicons.dev)
+[![App Deployment](https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible&theme=dark)](https://skillicons.dev)
 
 ### Team coordination tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=dark)](https://skillicons.dev)
@@ -20,9 +20,6 @@
 
 ## Currently Learning: 
 [![My Skills](https://skillicons.dev/icons?i=rust&theme=dark)](https://skillicons.dev)
-
-## Interested in learning:
-[![Learning](https://skillicons.dev/icons?i=go,kubernetes&theme=dark)](https://skillicons.dev)
 
 <!--
 **0x000001A4/0x000001A4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
